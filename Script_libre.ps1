@@ -40,11 +40,11 @@ switch($inp){
 
                         # Definir la ruta de la carpeta a respaldar
 
-                            $origen = "C:\Users\$NameUser\"
+                            $origen = "C:\Users\$NameUser"
 
                         # Definir la ruta de destino para la copia de seguridad
 
-                            $destino = "C:\Users\$NameUser\Documents\"
+                            $destino = "C:\Backup"
 
                         # Crear una variable con el nombre del archivo de copia de seguridad
 
